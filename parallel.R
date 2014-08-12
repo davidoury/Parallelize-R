@@ -1,4 +1,4 @@
-# install.packages('parallel) # one
+# install.packages('parallel) # one two
 library(parallel)
 
 detectCores() # number of CPUs
